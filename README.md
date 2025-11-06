@@ -1,8 +1,8 @@
-#VisualWave - AI-Powered 3D Algorithm Visualizer
+# VisualWave - AI-Powered 3D Algorithm Visualizer
 
-#🚀 LIVE DEMO 🚀 [visit: https://retina-book.vercel.app]
+# 🚀 LIVE DEMO 🚀 [visit: https://retina-book.vercel.app]
 
-###(Note: The AI model may take a few moments to generate the 3D visualization)
+### (Note: The AI model may take a few moments to generate the 3D visualization)
 
 **What is VisualWave?**
 
@@ -22,7 +22,7 @@ Features
 
 * Instant Search : The entire LeetCode problem database is searchable instantly from the frontend.
 
-###Tech Stack & Architecture
+### Tech Stack & Architecture
 
 This is a full-stack monorepo application with a clear separation of concerns:
 
