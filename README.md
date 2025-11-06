@@ -1,6 +1,6 @@
 # VisualWave - AI-Powered 3D Algorithm Visualizer
 
-# 🚀 LIVE DEMO 🚀 [visit: https://retina-book.vercel.app]
+# 🚀 [LIVE DEMO](https://retina-book.vercel.app) 🚀
 
 ### (Note: The AI model may take a few moments to generate the 3D visualization)
 
