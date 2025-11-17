@@ -40,7 +40,7 @@ This is a full-stack monorepo application with a clear separation of concerns:
 
 * Framework : FastAPI (Python)
 
-* AI Model : Groq (using mixtral-8x7b-32768)
+* AI Model : Groq (using openai-oss-20b)
 
 * Data : Local JSON database (merged_problems.json)
 
